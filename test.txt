@@ -1,3 +1,10 @@
-I love Bangladesh
-I am a Cricketer
-I an a boy
+git --version
+git status
+git init
+git add test.txt
+git commit -m "Message"
+git config --global user.email "dupl.shamimul@gmail.com"
+git config --global user.name "Shamimul17"
+git branch -M main
+git remote add origin https://github.com/Shamimul17/GIT
+git push -u origin main
